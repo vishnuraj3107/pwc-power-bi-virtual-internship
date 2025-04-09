@@ -1,0 +1,55 @@
+# PwC Power BI Virtual Case Experience (Forage)
+
+This repository showcases my work completed during the **PwC Power BI Virtual Internship** offered by [Forage](https://www.theforage.com/). The internship simulated real-world data analytics tasks and involved creating interactive dashboards to generate business insights using Power BI.
+
+## 📊 Tasks Completed
+
+### 1. Call Center Trends Analysis
+- Analyzed support ticket volume and resolution trends.
+- Visualized performance by ticket type and department.
+- Created KPIs to monitor agent workload and response time.
+
+### 2. Customer Retention Dashboard
+- Built a churn analysis dashboard using customer data.
+- Identified key churn drivers: contract type, payment method, and service usage.
+- Developed KPIs such as Churn Rate, Customer Lifetime Value, and Revenue Loss.
+- Suggested data-driven strategies to improve retention.
+
+### 3. Diversity & Inclusion Insights
+- Evaluated organizational diversity using gender and department data.
+- Visualized representation across different business units.
+- Proposed strategies to improve diversity balance and inclusive hiring.
+
+## 📌 Key Skills Demonstrated
+- Data Cleaning and Transformation
+- Power BI Dashboard Design
+- DAX Formulas and KPIs
+- Insight Generation and Business Recommendations
+- Report Storytelling
+
+## 🛠 Tools Used
+- Microsoft Power BI
+- DAX (Data Analysis Expressions)
+- Excel (raw data source)
+- Forage Online Internship Platform
+
+## 📄 Certificate
+- Completion Date: **March 29, 2025**
+- Issued by: **PwC via Forage**
+- [Forage Website](https://www.theforage.com/)
+- Verification Code: `Jy9uc6ovk3G4kBokh`
+
+## 📂 Files in This Repository
+- `churn analysis.pbix` – Power BI dashboard file
+- `screenshots/` – Visual samples of dashboard insights (optional)
+- `README.md` – Overview of the project
+
+---
+
+### 🌟 Description for GitHub Repository
+
+> This repository contains Power BI dashboards and analytical insights created during the PwC Virtual Internship (Forage). The project covers real-world data analysis scenarios, including customer churn, diversity reporting, and operational performance, showcasing my skills in data storytelling, DAX, and KPI design.
+
+---
+
+Let me know if you want me to generate a **sample screenshot** or create a **portfolio-style PDF** to go with your GitHub link!

@@ -4,7 +4,7 @@ This repository contains Power BI dashboards and analytical insights created dur
 Businesses often struggle to retain customers due to a lack of visibility into the factors driving churn. Similarly, tracking operational performance and fostering diversity within the organization are key priorities that require data-driven insights. This project aims to solve these challenges by leveraging Power BI to analyze customer behavior, support operations, and workforce diversity. Through interactive dashboards and key performance indicators (KPIs), the project helps stakeholders identify at-risk customers, optimize service delivery, and promote inclusive workplace practices.
 
 
-Task 1: Call Centre Trends Create a dashboard in Power BI for Claire that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset. Get creative!
+**Task 1: Call Centre Trends Create a dashboard in Power BI for Claire that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset. Get creative!**
 
 
 KPI Name	                 Description
@@ -21,7 +21,8 @@ Satisfaction by Agent	     Compares agent performance and customer satisfaction
 
 ![image](https://github.com/user-attachments/assets/f5bbda32-2ab3-45cc-863e-2b16f1a52fd6)
 
-Task 2: Customer Retention A few weeks after presenting your dashboard to the management, the Retention Manager from the telecom reaches out to you directly. He was impressed by your work and asked if you can put together a dashboard about customer retention.
+
+**Task 2: Customer Retention A few weeks after presenting your dashboard to the management, the Retention Manager from the telecom reaches out to you directly. He was impressed by your work and asked if you can put together a dashboard about customer retention.**
 
 Developed an interactive Power BI dashboard to analyze call center performance and agent efficiency. The dashboard visualizes over 5,000 calls and highlights key operational KPIs such as call handling time, call abandonment rate, and customer satisfaction scores.
 
@@ -71,7 +72,8 @@ Key Features:
 
 - Visual insights into tech/admin support requests
 
-Task 3: Diversity & Inclusion Human Resources at our telecom client is highly into diversity and inclusion. They’ve been working hard to improve gender balance at the executive management level, but they’re not seeing any progress. They’re reaching out to us for help.The objective was to assess gender parity, hiring trends, promotion fairness, turnover rates, and performance ratings across departments and job levels.
+
+**Task 3: Diversity & Inclusion Human Resources at our telecom client is highly into diversity and inclusion. They’ve been working hard to improve gender balance at the executive management level, but they’re not seeing any progress. They’re reaching out to us for help.The objective was to assess gender parity, hiring trends, promotion fairness, turnover rates, and performance ratings across departments and job levels.**
 
 ![image](https://github.com/user-attachments/assets/1dd7543a-7279-47ce-9ee4-a86df6b5a912)
 

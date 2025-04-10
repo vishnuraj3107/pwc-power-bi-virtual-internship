@@ -1,6 +1,7 @@
 # PwC Power BI Virtual Case Experience (Forage)
 
-This repository showcases my work completed during the **PwC Power BI Virtual Internship** offered by [Forage](https://www.theforage.com/). The internship simulated real-world data analytics tasks and involved creating interactive dashboards to generate business insights using Power BI.
+This repository showcases my work completed during the **PwC Power BI Virtual Internship** offered by [Forage](https://www.theforage.com/). 
+The internship simulated real-world data analytics tasks and involved creating interactive dashboards to generate business insights using Power BI.
 
 ## 📊 Tasks Completed
 
@@ -41,16 +42,17 @@ This repository showcases my work completed during the **PwC Power BI Virtual In
 - Certificate : https://drive.google.com/file/d/1LJ241Sq3e7BFm_xe4R-uwK00FgKkYY4v/view?usp=sharing
 
 ## 📂 Files in This Repository
-- `churn analysis.pbix` – Power BI dashboard file
-- `screenshots/` – Visual samples of dashboard insights (optional)
+- Task - 1 Call Centre Trends
+- Task - 2 Customer Retention
+- Task - 3 Diversity & Inclusion
 - `README.md` – Overview of the project
 
 ---
 
 ### 🌟 Description for GitHub Repository
 
-> This repository contains Power BI dashboards and analytical insights created during the PwC Virtual Internship (Forage). The project covers real-world data analysis scenarios, including customer churn, diversity reporting, and operational performance, showcasing my skills in data storytelling, DAX, and KPI design.
+> This repository contains Power BI dashboards and analytical insights created during the PwC Virtual Internship (Forage). 
+The project covers real-world data analysis scenarios, including customer churn, diversity reporting, and operational performance,
+showcasing my skills in data storytelling, DAX, and KPI design.
 
----
 
-Let me know if you want me to generate a **sample screenshot** or create a **portfolio-style PDF** to go with your GitHub link!
